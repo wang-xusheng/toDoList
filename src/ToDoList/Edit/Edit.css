@@ -1,0 +1,39 @@
+.Edit {
+    
+    margin: 10px;
+    border-bottom: 1px solid #000;
+}
+
+.Edit h2 {
+    text-align: center;
+    margin: 10px;
+}
+
+.Edit h4 {
+    margin: 10px 0;
+}
+
+.Edit button {
+    display: block;
+    width: calc(100%) ;
+    margin: 10px 0;
+    height: 40px;
+    text-align: center;
+    font-size: larger;
+    letter-spacing: 20px;
+    background-color: rgb(158, 160, 161);
+}
+.Edit input{
+   height: 40PX;
+   font-size: larger;
+}
+.Edit .affair-input{
+    width: calc(100% - 10px) ;
+}
+.Edit .dateAndTime-input{
+    display: flex;
+   
+}
+.Edit .dateAndTime-input input{
+    flex: 1;
+}
